@@ -22,18 +22,22 @@ This project is about predicting a student's mental stress level during exams ba
 ---
 
 ## 💻 How to run this project
-
+---
 ### Run locally
-
+---
 1. Clone this repository
 2. Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
 ```
+---
 ###Run the app using:
+---
 
 ```bash
 streamlit run streamlit_app.py
 ```
+---
 ###It will open in your browser automatically.
+---
