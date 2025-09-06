@@ -7,7 +7,6 @@ This project predicts a student's **mental stress level during exams** using the
 ## 🚀 Live Project
 
 🔗 [Click here to try the Mental Health Prediction App](https://studentmentalhealthprediction.streamlit.app/)  
-*(Replace this link with your actual Streamlit Cloud URL after deployment)*
 
 ---
 
